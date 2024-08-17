@@ -15,3 +15,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Martins22&layout=compact&theme=dark)
 
 ##
+
+![snake gif](https://github.com/Jean-Martins22/Jean-Martins22/blob/output/github-contribution-grid-snake.svg)
