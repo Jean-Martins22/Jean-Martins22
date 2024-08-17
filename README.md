@@ -1,21 +1,12 @@
 ## Oi, eu sou o Jean! ☝️🤓
 
 <!--github stats lado a lado-->
-<div align="center" style="display: inline_block">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Jean-Martins22&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Jean-Martins22&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Jean-Martins22&show_icons=true" />
-  </picture>
-  
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Martins22&layout=compact&theme=dark" />
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jean-Martins22&theme=dark&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jean-Martins22&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
 
 <!--Imagem de Linguagens-->
 <div style="display: inline_block"><br>
