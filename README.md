@@ -1,6 +1,6 @@
 ## Oi, eu sou o Jean! ☝️🤓
 
-<!--github stats e imagem de linguagens lado a lado-->
+<!--github stats lado a lado-->
 <div align="center" style="display: inline_block">
   <picture>
     <source
@@ -15,6 +15,15 @@
   </picture>
   
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Martins22&layout=compact&theme=dark" />
+</div>
+
+<!--Imagem de Linguagens-->
+<div style="display: inline_block"><br>
+  <img align="center" alt="AJ-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="AJ-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="AJ-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="AJ-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="AJ-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 
 ##
