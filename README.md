@@ -1,9 +1,10 @@
 <h1>Oi, eu sou o Jean! ☝️🤓</h1>
-<p>Desenvolvedor Back-End | Estudante de Engenharia da Computação</p>
+<p>Desenvolvedor Full-Stack | Estudante de Engenharia da Computação</p>
 
 ## Sobre Mim 🚀
 <p>
-  Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados! Atualmente, estou cursando <b>Engenharia da Computação</b> e tenho um forte interesse por <b>Desenvolvimento      Back-End</b>. Adoro explorar novas tecnologias e aplicar conceitos práticos em meus projetos pessoais e acadêmicos. Também tenho experiência com projetos em <b>JavaScript, Node.js, Python,</b> e outras           linguagens.
+  Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados! Atualmente, estou cursando <b>Engenharia da Computação</b> e tenho um forte interesse por <b>Desenvolvimento      Full-Stack</b>. Adoro explorar novas tecnologias e aplicar conceitos práticos em meus projetos pessoais e acadêmicos. Também tenho experiência com projetos em <b>JavaScript, C#, React,</b> e outras   
+  linguagens.
 </p>
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -19,6 +20,9 @@
   <img align="center" alt="MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="SqLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Css" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 
 ## 📊 GitHub Stats
