@@ -1,4 +1,4 @@
-<h1>Oi, eu sou o Jean! ☝️🤓</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=2D9CCC&width=435&lines=Oi%2C+eu+sou+o+Jean!+%E2%98%9D%EF%B8%8F%F0%9F%A4%93)](https://git.io/typing-svg)
 <p>Desenvolvedor Full-Stack | Engenheiro da Computação</p>
 
 ## Sobre Mim 🚀
